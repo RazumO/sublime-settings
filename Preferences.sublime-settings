@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Agila Oceanic Next (SL).tmTheme",
+	"font_size": 11,
+	"ha_style": "underlined",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"linters":
+	{
+		"eslint":
+		{
+			"excludes":
+			[
+				"**/node_modules/**",
+				"**/vendor/**"
+			]
+		}
+	},
+	"tab_size": 2,
+	"theme": "Agila.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
